@@ -64,5 +64,4 @@ class InteractiveRecord
     end
     DB[:conn].execute(sql)
   end
-
 end
